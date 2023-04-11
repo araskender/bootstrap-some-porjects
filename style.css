@@ -1,0 +1,12 @@
+body {
+    background: fixed;
+    background-image: url(img/ppp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.blockstyle{
+    border-radius: 10px;
+    background-color: #00000082;
+}
